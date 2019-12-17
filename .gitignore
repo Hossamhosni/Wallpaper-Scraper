@@ -1,0 +1,6 @@
+downloads
+.vscode
+.idea
+__pycache__
+.pylintrc
+venv
